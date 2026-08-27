@@ -1,0 +1,42 @@
+[
+  {
+    "service_name": "General Consultation",
+    "description": "Medical consultation for routine health concerns, symptoms, diagnosis, and treatment guidance."
+  },
+  {
+    "service_name": "Dental Care",
+    "description": "Professional dental services including routine checkups, cleaning, fillings, and oral health care."
+  },
+  {
+    "service_name": "Cardiology",
+    "description": "Diagnosis, treatment, and monitoring of heart-related conditions and cardiovascular health."
+  },
+  {
+    "service_name": "Dermatology",
+    "description": "Medical care for skin, hair, and nail conditions including diagnosis and treatment."
+  },
+  {
+    "service_name": "Pediatrics",
+    "description": "Healthcare services focused on the medical needs, growth, and development of children."
+  },
+  {
+    "service_name": "Gynecology",
+    "description": "Healthcare services for women's reproductive health, routine examinations, and related conditions."
+  },
+  {
+    "service_name": "Orthopedics",
+    "description": "Diagnosis and treatment of conditions affecting bones, joints, muscles, ligaments, and the spine."
+  },
+  {
+    "service_name": "Neurology",
+    "description": "Medical diagnosis and treatment of disorders affecting the brain, spinal cord, and nervous system."
+  },
+  {
+    "service_name": "Ophthalmology",
+    "description": "Eye examinations, vision care, and treatment of various eye-related conditions."
+  },
+  {
+    "service_name": "Laboratory Testing",
+    "description": "Diagnostic laboratory services including blood, urine, and other medical tests to support accurate diagnosis."
+  }
+]
