@@ -26,6 +26,10 @@ const appointment=new mongoose.Schema(
             required:true,
 
         },
+        age:{
+            type:Number,
+            required:true,
+        },
         status:{
             type:String,
             enum:["booked","cancled"],
